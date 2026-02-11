@@ -40,5 +40,6 @@ int main() {
     }
     printf("\n\nAverage Waiting Time=%f",avg_wt);
     printf("\nAverage Turnaround Time=%f",avg_tat);
+    //dsbibvkjdsnlk
     return 0;
 }
